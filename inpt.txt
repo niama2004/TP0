@@ -1,0 +1,5 @@
+nom : El miz Niama
+email: niamaelmiz04@gmail.com
+Bonjour 
+after every modification we gotta ctrl+s then git add . to return a la zone
+hare are 
